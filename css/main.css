@@ -27,6 +27,7 @@
 }
 
 .score-container {
+    padding-top: 50px;
     display: flex;
     align-items: center;
     margin-bottom: 50px;
@@ -34,7 +35,7 @@
 
 .score-board {
     border: 2px solid white;
-    margin: 0px 20px;
+    margin: 0 20px;
     padding: 10px;
     border-radius: 10%;
     display: flex;
